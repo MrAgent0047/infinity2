@@ -1,0 +1,87 @@
+@media (min-width: 140px ) and (max-width: 621px){
+    form{
+        /* background-color: rgb(101, 77, 238); */
+        background: linear-gradient(rgb(8, 60, 8),rgb(3, 3, 126),rgb(52, 52, 52),rgb(71, 71, 10));
+        padding: 1rem;
+    }
+    .bri{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+    }
+    input{
+        text-align: center;
+        color: rgb(0, 0, 0);
+        width: 100%;
+        border-radius: 0.2rem;
+        border: 1px;
+    }
+    .texte{
+        width: 70%;
+        text-align: center;
+        font-size: x-large;
+        font-weight: bold;
+    }
+    .long{
+        width: 30%;
+    }
+    .long5{
+        width: 30%;
+        display: flex;
+
+    }
+    .bouge{
+        display: flex;
+        align-items: center;
+        flex-direction: row;
+        width: 100%;
+    }
+    .touch{
+        width: 55%;
+    }
+    .pige{
+        width: 40%;
+    }
+    .lo2{
+        display: flex;
+        justify-content: center;
+        margin-top: 7rem;
+    }
+    
+    button{
+        width: 80%;
+        height: 2rem;
+        background-color: rgb(44, 27, 168);
+        border: 0px;
+        border-radius: 0.7rem;
+        color: rgb(210, 209, 209);
+        font-weight: bold;
+        font-size: x-large;
+        font-style: oblique;
+    }
+    .scan{
+        font-weight: bolder;
+        font-size: xx-large;
+    }
+    .top{
+        width: 30%;
+        height: 6rem;
+        background-color: black;
+    }
+    .tel{
+        width: 90%;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    form div+div{
+        margin-top: 0.3rem;
+    }
+    .col{
+     color: rgb(0, 0, 0);
+     font-style: italic;
+     margin-bottom: -1rem;
+     margin-top: 2rem;
+    }
+}

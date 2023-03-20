@@ -1,0 +1,81 @@
+@media (min-width: 140px ) and (max-width: 621px){
+    
+
+body{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(rgb(8, 60, 8),rgb(3, 3, 126),rgb(52, 52, 52),rgb(71, 71, 10));
+    
+}
+header{
+    background-image: url('./image/45710441-schone-natur-norwegen-naturlandschaft-.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 12rem;
+    border-radius: 0.3rem 0.3rem 1rem 1rem;
+}
+.mouve1,.mouve2, .mouve3, .mouve4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-image: url('./image/1365410_2f075.jpg');
+    background-size: cover;
+    border-radius: 13px;
+    text-align: center;
+    width: 23%;
+    height: 6rem;
+    font-weight: bolder;
+}
+.bot{
+    height: 1.5rem;
+    background-color: rgb(254, 251, 251);
+    border-radius: 0px 0px 13px 13px;
+    text-align: center;
+    opacity: 0.55;
+}
+
+.arange{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 1rem;
+    width: 100%;
+    margin-left: -0.4rem;
+}
+.tof1, .tof2{
+    background-image: url('./image/4530de5c13636248.jpg');
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-size: cover;
+    border-radius: 13px;
+    width: 47%;
+    height: 25rem;
+    font-weight: bolder;
+    font-size: xx-large;
+    
+}
+.ecrit1, .ecrit2{
+    background-color: rgb(254, 251, 251);
+    border-radius: 0px 0px 13px 13px;
+    opacity: 0.20; 
+    padding-left: 0.5rem;
+}
+.a1{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+footer{
+    background-color: rgb(131, 130, 130);
+    width: 100%;
+    height: 3rem;
+    margin-top: 2rem;
+    margin-bottom: -2rem;
+    border-radius: 13px 13px 0px 0px;
+}
+.letter{
+    width: 100%;
+}
+}

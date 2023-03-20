@@ -1,0 +1,98 @@
+@media (min-width: 140px ) and (max-width: 621px){
+    .h1{
+        width: 100%;
+        height: 16rem;
+        background-image: url('./image/a3795fba115ca28404c0db712d52b331e9c6dda7.jpg');
+        background-size: cover;
+    }
+    .up{
+        margin-top: 1rem;
+    }
+    .P{
+        width: 100%;
+        height: 16rem;
+        display: flex;
+        justify-content: space-between;
+        margin-top: 1rem;
+    }
+    .p1{
+        width: 49%;
+        background-image: url('./image/ext_0_2851472.jpg');
+        background-size: cover;
+    }
+    .p2{
+        width: 49%;
+        background-image: url('./image/efa7d9fb438720f7bd14df9afbc54db5384e8b5d.webp');
+        background-size: cover;
+    }
+    .h2{
+        width: 100%;
+        height: 16rem;
+        background-image: url('./image/deco-appartement-moderne-1.jpg');
+        background-size: cover;
+        margin-top: 1rem;
+    }
+    .h3{
+        width: 80%;
+        height: 10rem;
+        background-image: url('./image/deco-appartement-moderne.jpg');
+        background-size: cover;
+        margin-top: 1rem;
+    }
+    .fixe{
+        display: flex;
+        justify-content: center;
+    }
+    .h4{
+        width: 100%;
+        height: 14rem;
+        background-image: url('./image/600x370-fit-cover-orientation-0deg.jpeg');
+        background-size: cover;
+        margin-top: 1rem; 
+    }
+    .h5{
+        width: 100%;
+        height: 14rem;
+        background-image: url('./image/deco-appartement-moderne.jpg');
+        background-size: cover;
+        margin-top: 1rem;
+ 
+    }
+    .P1{
+        width: 100%;
+        height: 16rem;
+        display: flex;
+        justify-content: space-between;
+        margin-top: 1rem;
+    }
+    .p3{
+        width: 30%;
+        background-image: url('./image/appartement-de-ville-moderne.jpg');
+        background-size: cover;
+    }
+    .p4{
+        width: 68%;
+        background-image: url('./image/ext_0_3049546.jpg');
+        background-size: cover;
+    }
+    button{
+        width: 80%;
+        height: 2rem;
+        background-color: rgb(44, 27, 168);
+        border: 0px;
+        border-radius: 0.7rem;
+        color: whitesmoke;
+        font-weight: bolder;
+    }
+    .lo{
+        display: flex;
+        justify-content: center;
+        margin-top: 1rem;
+    }
+    .test{
+        text-align: center;
+        font-size: x-large;
+        font-weight: bolder;
+    }
+   
+}
